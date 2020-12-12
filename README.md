@@ -1,6 +1,8 @@
 # Study-Computer-Vision
 2020 4학년 2학기 컴퓨터비전 수업을 들으며 수행한 Computer Vision 기능 구현 과제입니다.
 
+각 폴더 안의 사진을 통해 결과 영상을 볼 수 있습니다.
+
 구현 환경:
 Windows, Qt, MinGW 64bits, C++
 
